@@ -6,7 +6,7 @@
 
 body{
     height: 100%;
-    background-color: darkblue;
+    background-color: #111;
     
 }
 
@@ -14,7 +14,7 @@ h1{
     font-size: 3rem;
     font-weight: 50;
     margin: 1rem 0 3rem;
-    text-align: center;
+    text-align: left;
     color: #fff; 
     font-family: 'Hind', sans-serif;
 }
